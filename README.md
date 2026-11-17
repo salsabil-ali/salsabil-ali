@@ -37,7 +37,7 @@
 
 <br />
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=salsabil-ali&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salsabil-ali&layout=compact&theme=tokyonight" height="150" alt="top langs" />
-</div>
+</div> -->
